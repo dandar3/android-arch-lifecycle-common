@@ -1,7 +1,7 @@
 ## android-arch-lifecycle-common
 
 Eclipse library project based on:<br/>
-https://maven.google.com/android/arch/lifecycle/runtime/1.0.0/runtime-1.0.0.aar
+https://maven.google.com/android/arch/lifecycle/runtime/1.0.0/runtime-1.0.0.jar
 
 **Requires:**
 - `Android 8.0 (API 26) SDK Platform`
