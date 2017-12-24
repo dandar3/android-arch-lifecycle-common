@@ -1,7 +1,7 @@
 ## android-arch-lifecycle-common
 
 Eclipse library project based on:<br/>
-https://maven.google.com/android/arch/lifecycle/common/1.0.0/common-1.0.0.jar
+https://maven.google.com/android/arch/lifecycle/common/1.0.3/common-1.0.3.jar
 
 **Requires:**
 - `Android 8.0 (API 26) SDK Platform`
@@ -12,4 +12,4 @@ https://maven.google.com/android/arch/lifecycle/common/1.0.0/common-1.0.0.jar
 
 **SVN checkout:**
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/>
-  https://github.com/dandar3/android-arch-lifecycle-common/tags/1.0.0
+  https://github.com/dandar3/android-arch-lifecycle-common/tags/1.0.3
